@@ -24,8 +24,8 @@ export const Hero: React.FC = () => {
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center">
         <div className="w-full md:w-3/4 lg:w-2/3 py-12 md:py-20 text-center md:text-left">
-          <div className="inline-block px-4 py-1 mb-6 border border-orange-500/50 rounded-full bg-orange-500/10 backdrop-blur-sm">
-            <span className="text-orange-500 font-bold text-sm tracking-wide uppercase">Emergência? Chegamos rápido!</span>
+          <div className="inline-block px-4 py-1 mb-6 border border-green-500/50 rounded-full bg-green-500/10 backdrop-blur-sm">
+            <span className="text-green-500 font-bold text-sm tracking-wide uppercase">Emergência? Chegamos rápido!</span>
           </div>
           
           <h1 className="text-4xl md:text-5xl lg:text-7xl font-black text-white leading-tight mb-6">
